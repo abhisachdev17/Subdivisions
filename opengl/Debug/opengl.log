@@ -1,0 +1,14 @@
+﻿  render.cpp
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(105,23): warning C4018: '<': signed/unsigned mismatch
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(325,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(329,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(333,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(337,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(341,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(345,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\University\Winter 2021\COMP4490\CC-GPU\src\meshmgr.h(49,19): warning C4018: '<': signed/unsigned mismatch
+C:\University\Winter 2021\COMP4490\CC-GPU\src\meshmgr.h(48): message : while compiling class template member function 'void MeshManager<GPUMesh>::next(void)'
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(281): message : see reference to function template instantiation 'void MeshManager<GPUMesh>::next(void)' being compiled
+C:\University\Winter 2021\COMP4490\CC-GPU\src\render.cpp(23): message : see reference to class template instantiation 'MeshManager<GPUMesh>' being compiled
+  opengl.vcxproj -> C:\University\Winter 2021\COMP4490\CC-GPU\build\opengl.exe
